@@ -12,4 +12,4 @@ pip install torch torchvision torchaudio
 # Run 
 frozen_lake_Q.py runs the process with a basic Q-table  
 frozen_lake_8x8_DeepQ.py runs the DeepQNetwork process
-# Note: ALE Documentation Contributions folder contains the results of my documeentation changes that were accepted to the official package
+# Note: ALE Documentation Contributions folder contains the results of my documentation changes that were accepted to the official package
