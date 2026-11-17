@@ -163,7 +163,7 @@ The scripts are the reference for the 8×8 implementation. The notebook uses dif
 
 During this project, I proposed simplifying action-space tables in the **Arcade Learning Environment (ALE)** documentation by removing repeated column headers and presenting actions in a single table.
 
-The discussion began in [PR #602](https://github.com/Farama-Foundation/Arcade-Learning-Environment/pull/602). A maintainer [reported applying the change across environments in PR #561](https://github.com/Farama-Foundation/Arcade-Learning-Environment/pull/602#issuecomment-2856213575). PR #602 itself was closed without being merged.
+The discussion began in [PR #602](https://github.com/Farama-Foundation/Arcade-Learning-Environment/pull/602) and was implemented in [PR #561](https://github.com/Farama-Foundation/Arcade-Learning-Environment/pull/602#issuecomment-2856213575).
 
 See the [previous layout](Open_Source_Contributions/Previous_Action_Table_Ale.png) and [proposed layout](Open_Source_Contributions/New%20Action%20Table.png).
 
